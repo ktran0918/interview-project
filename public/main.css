@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+thead {
+  background: #ccc;
+}
+
+th, td {
+  padding: 2px 5px;
+  border: 1px solid gray;
+}
+
+p {
+  text-align: center;
+}
