@@ -16,6 +16,10 @@ th, td {
   border: 1px solid gray;
 }
 
+th#sort-cities {
+  cursor: pointer;
+}
+
 p {
   text-align: center;
 }
